@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+## Igor de Andrade da Cunha
+### Analista e desenvolvedor de sistemas
 
-You can use the [editor on GitHub](https://github.com/igoracunha/curriculo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Cidade: Ibitinga/SP <br>
+Celular: (16) 99719-0530 <br>
+E-mail: [igoradacunha@hotmail.com](mailto:igoradacunha@hotmail.com) <br>
+Linkedin: [/in/igorandcunha/](https://www.linkedin.com/in/igorandcunha/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Conhecimentos e Habilidades
+- Experiência em administração de banco de dados MS SQL Server e T-SQL 
+- Experiência na implementação do Reporting Services e Integration Services. Experimentando o Analysis Services e Power BI
+- Experiência com suporte técnico e melhorias de processos
+- Experiência em Windows Server e Active Directory
+- Conhecimento em banco de dados Oracle, PostgreSQL, MySQL e Firebird
+- Desenvolvimento desktop com Delphi e C#
+- Desenvolvimento de websites com WordPress
 
-### Markdown
+### Formação acadêmica
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+>**USC Bauru/SP** <br>
+Especialista em Engenharia de Software <br>
+Concluído em 2017.
 
-```markdown
-Syntax highlighted code block
+>**Fatec Taquaritinga/SP** <br>
+Tecnológo em Processamento de Dados <br>
+Concluído em 2014.
 
-# Header 1
-## Header 2
-### Header 3
+>**Etec Ibitinga/SP** <br>
+Técnico em Informática <br>
+Concluído em 2009.
 
-- Bulleted
-- List
+### Experiência Profissional
 
-1. Numbered
-2. List
+**Stone CO.** <br>
+FEV 2021 - ATUAL <br>
+Analista de Desenvolvimento - Sustentação <br>
+- Desenvolvimento Delphi e framework Millennium
+- Sustentação ao ERP Millennium
+- Criação de scripts para banco de dados MS SQL Server e Firebird
 
-**Bold** and _Italic_ and `Code` text
+**Unimed Ibitinga** <br>
+OUT 2009 - FEV 2021 <br>
+Analista de Sistemas <br>
+- Desenvolvimento desktop em Delphi e C#
+- Sustentação ao sistemas GPSi MV, ERP Pirâmide e a aplicativos Unimed
+- Administração, manutenção e desenvolvimento em banco de dados MS SQL Server e Oracle 12g
+- Criação de relatórios com Reporting Services
+- Melhorias nos processos organizacionais e acompanhamento de projetos
 
-[Link](url) and ![Image](src)
-```
+**Suprimátic Informática** <br>
+AGO 2009 - SET 2009 <br>
+Estagiário <br>
+- Assistência técnica em microcomputadores
+- Formatação Windows
+- Instalação e configuração de redes
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Tribunal de Justiça/SP** <br>
+NOV 2006 - DEZ 2007 <br>
+Estagiário <br>
+- Organizar e arquivar processos judiciais não informatizados
+- Cadastrar a entrada de processos judiciais
+- Atendimento ao público
 
-### Jekyll Themes
+### Cursos, workshops, etc.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/igoracunha/curriculo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+>**Microsoft Power BI Para Data Science** <br>
+Data Science Academy <br>
+72hs - 2020 - 2021
 
-### Support or Contact
+>**Curso completo de BI com SQL Server** <br>
+Felipe Mafra - Udemy <br>
+26hs - em 2020
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+>**Escola de Formação de Líderes** <br>
+Instituto Libcom <br>
+48hs - nov 2017 e set 2018
+
+>**Práticas em Gestão de Pessoas** <br>
+FAIBI <br>
+40hs - mar 2014 - abr 2014
+
+>**DBA Oracle 11g - Módulos 1 e 2** <br>
+Senac Bauru <br>
+88hs - abr 2011 - out 2011
+
+### Idiomas
+- Português nativo (brasileiro)
+- Inglês técnico - leitura e escrita
+- Espanhol básico
