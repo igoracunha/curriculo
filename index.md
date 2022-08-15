@@ -4,7 +4,7 @@
 Cidade: Ibitinga/SP <br>
 Celular: (16) 99719-0530 <br>
 E-mail: [igoradacunha@hotmail.com](mailto:igoradacunha@hotmail.com) <br>
-Linkedin: [/in/igorandcunha/](https://www.linkedin.com/in/igorandcunha/)
+Linkedin: [/in/igorandcunha/](https://www.linkedin.com/in/igorandcunha/) <br>
 GitHub: [/igoracunha](https://github.com/igoracunha)
 
 ### Conhecimentos e Habilidades
